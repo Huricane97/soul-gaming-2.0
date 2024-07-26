@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "homepage": "http://proj.quantumdevs.io/",
+  "name": "Soul Gaming",
+  "homepage": "http://soul-gaming.netlify.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
